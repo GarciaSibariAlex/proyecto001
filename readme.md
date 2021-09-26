@@ -10,9 +10,9 @@ Notas de versión:
 
 V1.0: El proyecto ha sido creado y contiene carpetas con información simple.
 
-Los directorios que contienen son:
+Los archivos que contienen son:
 
-1. Carpeta src: En esta carpeta se encuentran un archivo de texto con información.
-2. Carpeta doc: En esta carpeta se encuentra documentación pdf sobre GitHub.
+1. Directorio src: En esta carpeta se encuentran un archivo de texto con información.
+2. Directorio doc: En esta carpeta se encuentra documentación pdf sobre GitHub.
 3. Readme.md: Documento readme.md
 
