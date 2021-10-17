@@ -1,6 +1,6 @@
-#PROYECTO01
+# PROYECTO01
 
-**PROYECTO CREADO POR ALEX GARCIA SIBARI **CONTACTO: 691970834 **GMAIL: sibarizx@gmail.com
+**PROYECTO CREADO POR ALEX GARCIA SIBARI CONTACTO: 691970834 GMAIL: sibarizx@gmail.com
 
 Soy un desarrollador de aplicaciones multiplataforma que está desarrollando un nuevo proyecto en GitHub.
 
